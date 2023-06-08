@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Nunito-Bold;
+    src: url("../fonts/Nunito-Bold.ttf");
+}
+
+@font-face {
+    font-family: Nunito-SemiBold;
+    src: url("../fonts/Nunito-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: Nunito-Medium;
+    src: url("../fonts/Nunito-Medium.ttf");
+}
+
+@font-face {
+    font-family: Poppins-Light;
+    src: url("../fonts/Poppins-Light.ttf");
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url("../fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url("../fonts/Poppins-Regular.ttf");
+}
+
+
+
